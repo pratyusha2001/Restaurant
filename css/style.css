@@ -1,0 +1,228 @@
+body{
+    margin-top:50px;
+    margin-left:42px;
+    margin-right:42px;
+    margin-bottom:50px;
+    background:linear-gradient(to right,rgb(243, 53, 110),rgb(245, 78, 128),rgb(154, 33, 253),rgb(164, 52, 255))
+}
+.nav-pills .pill-1 .nav-link{
+   background-color: rgba(255, 217, 0, 0.747);
+    color:black;
+    margin: 4px 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:100px;
+    padding-left:100px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight:900;
+    border: none;
+    border-radius:0px;
+}
+.nav-pills .pill-2 .nav-link{
+    background-color: rgba(255, 217, 0, 0.747);
+    color:black;
+    margin: 4px 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:80px;
+    padding-left:80px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight:900;
+    border: none;
+    border-radius:0px;
+}
+.nav-pills .pill-3 .nav-link{
+    background-color: rgba(255, 217, 0, 0.747);
+    color:black;
+    margin: 4px 2px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-right:45px;
+    padding-left:45px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight:900;
+    border: none;
+    border-radius:0px;
+}
+#sec2{
+    position:absolute;
+    display:block;
+}
+#sec2 img{
+    width:75%;
+    height:100%;
+    max-width: 100%;
+    background: cover;
+    margin-left: 18px;
+    margin-right:50px;
+    margin-top: 30px;   
+}
+#sec3
+{
+    position:absolute;
+    display:block;
+}
+#sec4{
+    display:block;
+}
+#card-body{
+    text-align: center;
+    font-weight: 900;
+    border:none;
+    outline:none;
+}
+#card00{
+    background:rgba(255,217,0,0.747);
+    border-radius: 0px;
+    float:right;
+    display: flex;
+    text-align: center;
+    margin-top:2%;
+    margin-bottom:15px;
+    margin-right:6%;
+    margin-left:-15px;
+    padding-top:2%;
+    padding-bottom:1%;
+}
+#card00 h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+#card00 p{
+    font-weight: 900;
+}
+#card01{
+    background:rgba(255,217,0,0.747);
+    border-radius: 0px;
+    float:right;
+    display: flex;
+    text-align: center;
+    padding-top:2%;
+    padding-bottom:1%;
+    margin-top: 17%;
+    margin-bottom:20px;
+    margin-right:5px;
+}
+#card01 h1{
+    font-size: 50px;
+    font-weight: 400;
+}
+#card01 p{
+    font-size: 15px;
+    font-weight: 900;
+}
+
+#card1{
+    margin-top:8px;
+    border-radius: 0px;
+    margin-bottom: 8px;
+}
+#card1 h4{
+    text-align: center;
+    font-size:20px;
+    font-weight: 800;
+
+}
+#card1 p{
+    text-align: center;
+    font-size: 12px;
+    color:grey;
+    font-weight: 900;
+}
+#card2{
+    padding:50px 0px;
+    border-radius: 0px;
+}
+#card2 h4{
+    text-align: left;
+    font-size:20px;
+    font-weight: 800;
+}
+#card2 p{
+    text-align: left;
+    font-size: 15px;
+    font-weight: 800;
+}
+#card3{
+    padding:50px 0px;
+    border-radius: 0px;
+}
+#card3 h4{
+    text-align: left;
+    font-size:20px;
+    font-weight: 750;
+}
+#card3 p{
+    text-align: left;
+    font-size: 15px;
+    font-weight: 900;
+}
+#card3 button{
+    float: left;
+    color:black;
+    border-radius: 0px;
+    font-size:12px;
+    font-weight: 600;
+    background-color:rgba(255,217,0,0.747);
+    padding:10px 20px;
+    border:none;
+    outline:none;
+    margin-top: 7px;
+}
+.card-group{
+    margin:20px;
+    border-radius: 0px;
+}
+#tag{
+    float:left;
+    display: flex;
+    padding:0% 20%;
+    margin-top: 10px;
+    background:linear-gradient(to left, rgba(255,217,0,0.747),rgba(255, 217, 0, 0.637),transparent);
+    color:rgba(255,217,0,0.747);
+    font-size: 9px;
+}
+#tag2{
+    float:right;
+    display: flex;
+    padding:0% 20%;
+    margin-top: 10px;
+    background:linear-gradient(to right, rgba(255,217,0,0.747),rgba(255,217,0,0.747),transparent);
+    color:rgba(255,217,0,0.747);
+    font-size: 9px;
+}
+.txt{
+    font-size: 25px;
+    margin-top: 0px;
+    margin-left: 30px;
+    padding:0px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-img-top{
+    padding-top:0px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 0px;
+    width:100%;
+    height:auto;
+}
+#ig{
+    padding-left: 15px;
+    display: table;
+    margin-top: 12px;
+}
+#ig img{
+    padding:10px;
+    padding-right:15px;
+    padding-left:5px;
+    width: 235px;
+    height:auto;
+}
